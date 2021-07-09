@@ -1,1 +1,1 @@
-Utility function for version vidoe 6
+Utility function for version 3
